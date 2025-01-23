@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Laurits Lyngbæk",
-    "label": "Cognitive Scientist",
+    "label": "MSc Student",
     "image": "",
     "email": "lauritswl@gmail.com",
     "phone": "+45 42292299",
@@ -20,8 +20,8 @@
       "name": "Cognitive Science, Aarhus Universitet",
       "position": "Instructor in scientific methods",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
       "summary": "Instructor in three courses: Methods 1, 3, and 4."
     }
   ],
